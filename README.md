@@ -13,8 +13,6 @@ I am a software developer with a strong passion for building web applications an
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernandotambun&show_icons=true&theme=merko)
-
-## 📊 Languages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandotambun&layout=compact&theme=merko)
 
 ## 📫 Connect with me
